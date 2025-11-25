@@ -14,5 +14,4 @@ int main() {
 	        cout<<n<<endl;
 	    }
 	}
-
 }
