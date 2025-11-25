@@ -9,7 +9,6 @@ On receiving the lists, the Collector realised that there were discrepancies - t
 21  23  35  57  90  92
 21  23  30  57  90 
 then the final list compiled by the collector would be:
-
 21  23  30  57  90
 The ID numbers 35, 42 and 92 which appeared in only one list each do not figure in the final list.
 
