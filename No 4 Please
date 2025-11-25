@@ -9,11 +9,7 @@ M is said to be good if no two elements from different indices sum to
 That is, 
 B
 B is good if for every pair 
-(
-i
-,
-j
-)
+
 (i,j) satisfying 
 1
 ≤
